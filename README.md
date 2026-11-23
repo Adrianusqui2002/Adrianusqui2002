@@ -34,7 +34,7 @@ const adriana = {
 ## ˖ ࣪⊹ Mi mundo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,notion,canva,instagram,linkedin&theme=light" />
+  <img src="https://skillicons.dev/icons?i=notion,canva,instagram,linkedin&theme=light" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ const adriana = {
 
 Moda · baile · viajes · cerámica, pintura y manualidades · Lana Del Rey, Bad Bunny y Karol G siempre de fondo.
 
-> **Fun fact:** psicóloga de día, amante de la moda y el lifestyle el resto del tiempo — y convencida de que lo extraordinario está en los detalles pequeños. ✨
+> **Fun fact:** consultora de HRST de día (con un fondo de psicología que nunca desaparece del todo), amante de la moda y el lifestyle el resto del tiempo — y convencida de que lo extraordinario está en los detalles pequeños. ✨
 
 <br>
 
@@ -95,4 +95,3 @@ Moda · baile · viajes · cerámica, pintura y manualidades · Lana Del Rey, Ba
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8CA3B5,100:F3E5D8&height=100&section=footer" width="100%"/>
-
