@@ -34,7 +34,11 @@ const adriana = {
 ## ˖ ࣪⊹ Mi mundo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,canva,instagram,linkedin&theme=light" />
+  <img src="https://img.shields.io/badge/Notion-7B2C3B?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-8CA3B5?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-7B2C3B?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/TikTok-8CA3B5?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-7B2C3B?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
 <p align="center">
